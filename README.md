@@ -1,4 +1,3 @@
 # the_Oldest_Businesses
-In this project analyzing store sales reports. 
-Employed various techniques to extract, clean, Exploratory Data Analysis, 
-simple insights for improve sales.
+I have done  projects like World’s oldest businesses. 
+Learning of this  project-Use of  CTE(Common table expression) in this project is good lavel.
